@@ -1,0 +1,8 @@
+{
+  "name": "arda-test-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/arda-e/arda-test-1.git",
+  "author": "aeren-netas <aeren@netas.com.tr>",
+  "license": "MIT"
+}
